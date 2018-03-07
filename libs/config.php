@@ -1,15 +1,13 @@
 <?php
 
 $CORREIOS_CONTRATO = array(
-    array('41106','Correios - PAC - Sem contrato',0),
-    array('40010','Correios - SEDEX - Sem contrato',0),
-    array('40215','Correios - SEDEX 10 - Sem contrato',0),
-    array('40290','Correios - SEDEX Hoje - Sem contrato',0),
-    array('40096','Correios - SEDEX - Código Serviço 40096',1),
-    array('40436','Correios - SEDEX - Código Serviço 40436',1),
-    array('40444','Correios - SEDEX - Código Serviço 40444',1),
-    array('81019','Correios - e-SEDEX - Código Serviço 81019',1),
-    array('41068','Correios - PAC - Código Serviço 41068',1)
+    array('04669','Correios - PAC - Código Serviço 04669',1),
+    array('04162','Correios - SEDEX - Código Serviço 04162',1),
+    array('04510','Correios - PAC - Código Serviço 04510',0),
+    array('04014','Correios - SEDEX - Código Serviço 04014',0),
+    array('04812','Correios - PAC - Código Serviço 04812',1),
+    array('04316','Correios - SEDEX - Código Serviço 04316',1),
+    array('jadlog','Jadlog - % de venda configurado na plataforma',1)
 );
 
 ?>
