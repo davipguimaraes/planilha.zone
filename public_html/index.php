@@ -40,12 +40,7 @@ $( document ).ready(function() {
                 error.insertAfter(element);
             }
         },
-  submitHandler: function(form) {
-
-      form.submit();
-
-      }
-  
+		submitHandler: function(form) {  form.submit();  }
     });
 
 
